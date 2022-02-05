@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Currencies_App/static/css/main.ede728cb.css",
+    "main.js": "/Currencies_App/static/js/main.13cbf256.js",
+    "index.html": "/Currencies_App/index.html",
+    "main.ede728cb.css.map": "/Currencies_App/static/css/main.ede728cb.css.map",
+    "main.13cbf256.js.map": "/Currencies_App/static/js/main.13cbf256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ede728cb.css",
+    "static/js/main.13cbf256.js"
+  ]
+}
