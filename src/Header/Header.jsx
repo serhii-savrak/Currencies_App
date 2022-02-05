@@ -6,14 +6,17 @@ const Header = () => {
   return (
     <header className="page-header">
       <nav className="page-header__navigation">
-        <Link to="/">
+        <Link to="/main">
           <div className="page-header__logo-container logo">
             <h1 className="logo__title">Currency Exchanger</h1>
           </div>
         </Link>
 
         <div className="page-header__pages-navigation pages-navigation">
-          <NavLink to="/" className="pages-navigation__input-currencies-link">
+          <NavLink
+            to="/main"
+            className="pages-navigation__input-currencies-link"
+          >
             First page
           </NavLink>
 
