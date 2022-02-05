@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Currencies_App/static/css/main.ede728cb.css",
-    "main.js": "/Currencies_App/static/js/main.ca2dc0f8.js",
+    "main.js": "/Currencies_App/static/js/main.3db806d8.js",
     "index.html": "/Currencies_App/index.html",
     "main.ede728cb.css.map": "/Currencies_App/static/css/main.ede728cb.css.map",
-    "main.ca2dc0f8.js.map": "/Currencies_App/static/js/main.ca2dc0f8.js.map"
+    "main.3db806d8.js.map": "/Currencies_App/static/js/main.3db806d8.js.map"
   },
   "entrypoints": [
     "static/css/main.ede728cb.css",
-    "static/js/main.ca2dc0f8.js"
+    "static/js/main.3db806d8.js"
   ]
 }
