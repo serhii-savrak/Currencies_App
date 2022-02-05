@@ -10,8 +10,9 @@ const App = (props) => {
     <>
       <Header />
       <Routes>
-        <Route path="/" element={<CurrencyInput />} />
+        <Route path="/" element={<Main />} />
         <Route path="all" element={<AllRates />} />
+        <Route path="*" element={<Main />} />
       </Routes>
     </>
   );
