@@ -1,5 +1,5 @@
 import React from "react";
-import CurrencyInput from "./pages/Main/Main";
+import Main from "./pages/Main/Main";
 import { Route, Routes } from "react-router-dom";
 import Header from "./Header/Header";
 
